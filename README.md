@@ -307,11 +307,6 @@ Moumita Baidya - Data Preprocessing and Integration
 -------------------
 
 Project Team:
-- Bhargav Pamidighantam (pamidighantam.b@northeastern.edu)
-- Akshatt Kain (kain.a@northeastern.edu)
 - Moumita Baidya (baidya.m@northeastern.edu)
-
-Institution:
-Northeastern University, CS 6140 Machine Learning
 
 Last Updated: December 2025
